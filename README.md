@@ -11,12 +11,7 @@ This Bash script utilizes the `livescore_api` module to fetch and display soccer
 
 ## Installation
 
-Ensure you have Python 3 and pip installed. Run the following commands to install the required dependencies:
-
-```bash
-pip3 install --upgrade pip
-pip3 install livescore_api
-```
+No worries. No installation is needed.
 
 ## Usage
 
@@ -24,6 +19,8 @@ pip3 install livescore_api
 
     ```bash
     git clone https://github.com/Drihmia/soccer-results-livescore-api.git
+    ```
+    ```bash
     cd soccer-results-livescore-api
     ```
 
@@ -56,5 +53,5 @@ If you'd like to contribute to the project, please fork the repository and creat
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Drihmia/soccer-results-livescore-api/blob/main/License) file for details.
 
